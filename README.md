@@ -4,22 +4,22 @@ allan.sioson@gmail.com
 
 Inputs to the solutions provided here are assumed to follow the format and constraints as described.
 
-1. [10055](https://onlinejudge.org/external/100/10055.pdf): Hasmat The Brave Warrior
-2. [10071](https://onlinejudge.org/external/100/10071.pdf): Back To High School Physics
-3. [10107](https://onlinejudge.org/external/101/10107.pdf): What Is The Median?
-4. [10300](https://onlinejudge.org/external/103/10300.pdf): Ecological Premium
-5. [10370](https://onlinejudge.org/external/103/10370.pdf): Above Average
-6. [10783](https://onlinejudge.org/external/107/10783.pdf): Odd Sum
-7. [11044](https://onlinejudge.org/external/110/11044.pdf): Searching For Nessy
-8. [11172](https://onlinejudge.org/external/111/11172.pdf): Relational Operators
-9. [11479](https://onlinejudge.org/external/114/11479.pdf): Is This The Easiest Problem?
-10. [11498](https://onlinejudge.org/external/114/11498.pdf): Division Of Nlognia
-11. [11727](https://onlinejudge.org/external/117/11727.pdf): Cost Cutting
-12. [11799](https://onlinejudge.org/external/117/11799.pdf): Horror Dash
-13. [11854](https://onlinejudge.org/external/118/11854.pdf): Egypt
-14. [12250](https://onlinejudge.org/external/122/12250.pdf): Language Detection
-15. [12289](https://onlinejudge.org/external/122/12289.pdf): One Two Three
-16. [12372](https://onlinejudge.org/external/123/12372.pdf): Packing For Holiday
-17. [12468](https://onlinejudge.org/external/124/12468.pdf): Zapping
-18. [12577](https://onlinejudge.org/external/125/12577.pdf): Hajj-e-Akbar
+1. [Hasmat The Brave Warrior](https://onlinejudge.org/external/100/10055.pdf)
+2. [Back To High School Physics](https://onlinejudge.org/external/100/10071.pdf)
+3. [What Is The Median?](https://onlinejudge.org/external/101/10107.pdf)
+4. [Ecological Premium](https://onlinejudge.org/external/103/10300.pdf)
+5. [Above Average](https://onlinejudge.org/external/103/10370.pdf)
+6. [Odd Sum](https://onlinejudge.org/external/107/10783.pdf)
+7. [Searching For Nessy](https://onlinejudge.org/external/110/11044.pdf)
+8. [Relational Operators](https://onlinejudge.org/external/111/11172.pdf)
+9. [Is This The Easiest Problem?](https://onlinejudge.org/external/114/11479.pdf)
+10. [Division Of Nlognia](https://onlinejudge.org/external/114/11498.pdf)
+11. [Cost Cutting](https://onlinejudge.org/external/117/11727.pdf)
+12. [Horror Dash](https://onlinejudge.org/external/117/11799.pdf)
+13. [Egypt](https://onlinejudge.org/external/118/11854.pdf)
+14. [Language Detection](https://onlinejudge.org/external/122/12250.pdf)
+15. [One Two Three](https://onlinejudge.org/external/122/12289.pdf)
+16. [Packing For Holiday](https://onlinejudge.org/external/123/12372.pdf)
+17. [Zapping](https://onlinejudge.org/external/124/12468.pdf)
+18. [Hajj-e-Akbar](https://onlinejudge.org/external/125/12577.pdf)
 
